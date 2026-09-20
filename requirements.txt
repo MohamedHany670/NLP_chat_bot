@@ -6,3 +6,7 @@ matplotlib
 joblib
 jupyter
 ipykernel
+torch
+transformers
+accelerate
+evaluate

@@ -1,0 +1,17 @@
+{
+  "vocab_size": 7401,
+  "embedding_dim": 128,
+  "hidden_dim": 128,
+  "num_classes": 3,
+  "max_length": 64,
+  "sentiment_to_id": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "id_to_sentiment": {
+    "0": "negative",
+    "1": "neutral",
+    "2": "positive"
+  }
+}
