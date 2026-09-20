@@ -10,3 +10,7 @@ torch
 transformers
 accelerate
 evaluate
+sentence-transformers
+chromadb
+groq
+python-dotenv
